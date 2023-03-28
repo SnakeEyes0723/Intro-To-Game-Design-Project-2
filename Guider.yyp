@@ -3,7 +3,7 @@
   "resourceVersion": "1.6",
   "name": "Guider",
   "resources": [
-    {"id":{"name":"obj_slinky","path":"objects/obj_slinky/obj_slinky.yy",},"order":1,},
+    {"id":{"name":"obj_path","path":"objects/obj_path/obj_path.yy",},"order":1,},
     {"id":{"name":"spr_background","path":"sprites/spr_background/spr_background.yy",},"order":0,},
     {"id":{"name":"spr_slinky","path":"sprites/spr_slinky/spr_slinky.yy",},"order":1,},
     {"id":{"name":"obj_wall","path":"objects/obj_wall/obj_wall.yy",},"order":0,},
