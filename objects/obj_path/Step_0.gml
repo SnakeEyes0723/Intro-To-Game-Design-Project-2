@@ -8,7 +8,7 @@ pathX = path_get_point_x(global.currPath,currPoint-1)
 pathY = path_get_point_y(global.currPath,currPoint-1)
 direction = point_direction(pathX,pathY,mouse_x,mouse_y)
 distance = point_distance(pathX,pathY,mouse_x,mouse_y)
-distance = clamp(distance,0,maxLength-(path_get_length(spr_slinky)-prevDist))
+distance = clamp(distance,0,maxLength-(path_get_length(global.currPath)-prevDist))
 path_change_point(global.currPath,currPoint,pathX+cos(direction*(pi/180))*distance,pathY-sin(direction*(pi/180))*distance,100)
 prevDist = distance
 

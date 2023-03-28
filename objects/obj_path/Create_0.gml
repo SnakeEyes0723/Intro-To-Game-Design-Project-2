@@ -10,6 +10,8 @@ prevDist = 0
 stepsize = 0.01;
 //Used for tracking current animation state
 movePos = 0;
+//Speed of Animation and character movement
+moveSpeed = 1/secToComplete
 
 //Creating the path for this level
 global.currPath = path_add()
@@ -17,6 +19,13 @@ path_set_closed(global.currPath,false);
 path_set_kind(global.currPath,1);
 path_add_point(global.currPath,startingX,startingY,100);
 path_add_point(global.currPath,startingX,startingY,100);
+
+//Create Character
+with(instance_create_layer(0,0,"CharacterLayer",obj_character))
+{
+	moveSpeed = other.moveSpeed
+	numSections = other.numTextureSections
+}
 
 //Loads the path texture in memory to display the path
 tex = sprite_get_texture(pathTexture, 0)
