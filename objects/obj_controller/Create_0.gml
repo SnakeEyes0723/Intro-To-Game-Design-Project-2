@@ -3,3 +3,4 @@
 
 
 global.pathPosition = 0
+global.controllerID = id

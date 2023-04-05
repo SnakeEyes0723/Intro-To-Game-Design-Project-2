@@ -23,7 +23,7 @@ path_add_point(global.currPath,startingX,startingY,100);
 //Create Character
 with(instance_create_layer(0,0,"CharacterLayer",obj_character))
 {
-	moveSpeed = other.moveSpeed
+	moveSpeed = other.pixelsPerSecond
 	numSections = other.numTextureSections
 }
 

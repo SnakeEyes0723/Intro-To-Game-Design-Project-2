@@ -1,8 +1,9 @@
 /// @description Insert description here
 // You can write your code in this editor
 
-with(other)
+
+path_end()
+with(global.controllerID)
 {
-	//Tells Player They Failed
-	event_perform(ev_other,ev_user0)
+	event_perform(ev_other,ev_user1)
 }

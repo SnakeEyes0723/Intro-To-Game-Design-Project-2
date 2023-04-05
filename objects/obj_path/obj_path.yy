@@ -36,6 +36,7 @@
     {"resourceType":"GMObjectProperty","resourceVersion":"1.0","name":"pathTexture","varType":5,"value":"spr_slinky","rangeEnabled":false,"rangeMin":0.0,"rangeMax":10.0,"listItems":[],"multiselect":false,"filters":[
         "GMSprite",
       ],},
+    {"resourceType":"GMObjectProperty","resourceVersion":"1.0","name":"pixelsPerSecond","varType":0,"value":"200","rangeEnabled":false,"rangeMin":0.0,"rangeMax":10.0,"listItems":[],"multiselect":false,"filters":[],},
   ],
   "overriddenProperties": [],
   "parent": {
