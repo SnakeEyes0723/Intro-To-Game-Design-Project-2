@@ -23,8 +23,16 @@ path_add_point(global.currPath,startingX,startingY,100);
 //Create Character
 with(instance_create_layer(0,0,"CharacterLayer",obj_character))
 {
+	global.characterID = id
 	moveSpeed = other.pixelsPerSecond
-	numSections = other.numTextureSections
+	//numSections = other.numTextureSections
+}
+
+//Create Follower
+with(instance_create_layer(0,0,"CharacterLayer",obj_follower))
+{
+	global.followerID = id
+	moveSpeed = other.pixelsPerSecond
 }
 
 //Loads the path texture in memory to display the path

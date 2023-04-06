@@ -9,6 +9,8 @@ if(followingPath and !reachedEnd){
 	if(path_position>=1)
 	{
 		reachedEnd=true
-		event_perform(ev_other,ev_user0)
+		path_end()
+		global.movePath = false
+		//event_perform(ev_other,ev_user0)
 	}
 }
