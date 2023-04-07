@@ -3,8 +3,8 @@
   "resourceVersion": "1.0",
   "name": "sampleTimerPath",
   "kind": 1,
-  "precision": 4,
   "closed": false,
+  "precision": 4,
   "points": [
     {"speed":100.0,"x":1152.0,"y":192.0,},
     {"speed":100.0,"x":864.0,"y":32.0,},

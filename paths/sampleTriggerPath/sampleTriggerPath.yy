@@ -3,8 +3,8 @@
   "resourceVersion": "1.0",
   "name": "sampleTriggerPath",
   "kind": 1,
-  "precision": 4,
   "closed": false,
+  "precision": 4,
   "points": [
     {"speed":100.0,"x":478.0,"y":267.0,},
     {"speed":100.0,"x":320.0,"y":640.0,},
