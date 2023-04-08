@@ -2,9 +2,12 @@
   "resourceType": "GMPath",
   "resourceVersion": "1.0",
   "name": "level1RunLoop",
-  "kind": 1,
   "closed": false,
-  "precision": 4,
+  "kind": 1,
+  "parent": {
+    "name": "Level 1 Paths",
+    "path": "folders/Paths/Level 1 Paths.yy",
+  },
   "points": [
     {"speed":100.0,"x":512.0,"y":96.0,},
     {"speed":100.0,"x":768.0,"y":160.0,},
@@ -15,8 +18,5 @@
     {"speed":100.0,"x":640.0,"y":320.0,},
     {"speed":100.0,"x":512.0,"y":96.0,},
   ],
-  "parent": {
-    "name": "Level 1 Paths",
-    "path": "folders/Paths/Level 1 Paths.yy",
-  },
+  "precision": 4,
 }
