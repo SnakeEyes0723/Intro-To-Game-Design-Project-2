@@ -9,7 +9,7 @@ if(loop){
 } else {
 	onEnd = path_action_stop
 }
-with(instance_create_layer(0,0,"WallLayer",obj_triggerRegion))
+with(instance_create_layer(0,0,"ObstaclesLayer",obj_triggerRegion))
 {
 	x = other.triggerX
 	y = other.triggerY
