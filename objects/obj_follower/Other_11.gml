@@ -1,5 +1,4 @@
-/// @description Insert description here
-// You can write your code in this editor
+/// @description Blind man reached end (Won level)
 
 
 path_end()

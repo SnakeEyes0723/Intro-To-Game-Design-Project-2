@@ -7,3 +7,10 @@ global.controllerID = id
 global.movePath = true
 global.characterID = 0
 global.followerID = 0
+
+function resetGlobals(){
+	global.pathPosition = 0
+	global.movePath = true
+	global.characterID = 0
+	global.followerID = 0
+}

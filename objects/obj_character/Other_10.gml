@@ -1,5 +1,4 @@
-/// @Failed to reach end (Failed)
-// You can write your code in this editor
+/// @description Failed to reach end (Failed)
 
 
 path_end()

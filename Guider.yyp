@@ -22,6 +22,7 @@
     {"id":{"name":"level1RunLoop","path":"paths/level1RunLoop/level1RunLoop.yy",},"order":5,},
     {"id":{"name":"level1TimerPath","path":"paths/level1TimerPath/level1TimerPath.yy",},"order":4,},
     {"id":{"name":"obj_child","path":"objects/obj_child/obj_child.yy",},"order":4,},
+    {"id":{"name":"Level3","path":"rooms/Level3/Level3.yy",},"order":5,},
     {"id":{"name":"obj_civi","path":"objects/obj_civi/obj_civi.yy",},"order":1,},
     {"id":{"name":"obj_jogger","path":"objects/obj_jogger/obj_jogger.yy",},"order":0,},
     {"id":{"name":"obj_follower","path":"objects/obj_follower/obj_follower.yy",},"order":9,},
@@ -29,6 +30,7 @@
     {"id":{"name":"obj_triggerWall","path":"objects/obj_triggerWall/obj_triggerWall.yy",},"order":6,},
     {"id":{"name":"obj_hole","path":"objects/obj_hole/obj_hole.yy",},"order":3,},
     {"id":{"name":"spr_startButton","path":"sprites/spr_startButton/spr_startButton.yy",},"order":0,},
+    {"id":{"name":"Level2","path":"rooms/Level2/Level2.yy",},"order":4,},
     {"id":{"name":"obj_wall","path":"objects/obj_wall/obj_wall.yy",},"order":0,},
     {"id":{"name":"sampleTimerPath","path":"paths/sampleTimerPath/sampleTimerPath.yy",},"order":1,},
     {"id":{"name":"spr_wall","path":"sprites/spr_wall/spr_wall.yy",},"order":2,},
@@ -51,7 +53,7 @@
     {"id":{"name":"spr_badDog","path":"sprites/spr_badDog/spr_badDog.yy",},"order":5,},
     {"id":{"name":"level1BikePath","path":"paths/level1BikePath/level1BikePath.yy",},"order":1,},
     {"id":{"name":"sampleTriggerPath","path":"paths/sampleTriggerPath/sampleTriggerPath.yy",},"order":2,},
-    {"id":{"name":"Room1","path":"rooms/Room1/Room1.yy",},"order":0,},
+    {"id":{"name":"TestRoom","path":"rooms/TestRoom/TestRoom.yy",},"order":0,},
   ],
   "Options": [
     {"name":"Windows","path":"options/windows/options_windows.yy",},
@@ -67,9 +69,11 @@
   "RoomOrderNodes": [
     {"roomId":{"name":"TitleScreen","path":"rooms/TitleScreen/TitleScreen.yy",},},
     {"roomId":{"name":"Level1","path":"rooms/Level1/Level1.yy",},},
-    {"roomId":{"name":"Room1","path":"rooms/Room1/Room1.yy",},},
+    {"roomId":{"name":"TestRoom","path":"rooms/TestRoom/TestRoom.yy",},},
     {"roomId":{"name":"LoseRoom","path":"rooms/LoseRoom/LoseRoom.yy",},},
     {"roomId":{"name":"WinRoom","path":"rooms/WinRoom/WinRoom.yy",},},
+    {"roomId":{"name":"Level2","path":"rooms/Level2/Level2.yy",},},
+    {"roomId":{"name":"Level3","path":"rooms/Level3/Level3.yy",},},
   ],
   "Folders": [
     {"resourceType":"GMFolder","resourceVersion":"1.0","name":"Animation Curves","folderPath":"folders/Animation Curves.yy","order":12,},
