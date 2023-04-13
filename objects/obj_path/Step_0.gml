@@ -1,4 +1,4 @@
-// @description Controls every action related to the Path
+/// @description Controls every action related to the Path
 
 //Animates texture by moveSpeed amount
 movePos-=moveSpeed

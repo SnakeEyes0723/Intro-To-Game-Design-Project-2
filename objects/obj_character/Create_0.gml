@@ -1,5 +1,5 @@
-/// @description Insert description here
-// You can write your code in this editor
+/// @description Inital variables created
+/// Note: Some variables for character are declared in the obj_path that created the character
 numSections = 60
 pathLength = 0
 prevPxPos = 0

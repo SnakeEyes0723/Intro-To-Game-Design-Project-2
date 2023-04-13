@@ -1,5 +1,4 @@
-/// @description Insert description here
-// You can write your code in this editor
+/// @description Start moving along path with space
 
 if (!followingPath)
 {

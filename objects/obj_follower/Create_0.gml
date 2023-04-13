@@ -1,5 +1,6 @@
-/// @description Insert description here
-// You can write your code in this editor
+/// @description Inital variables created
+/// Note: Some variables for follower are declared in the obj_path that created the follower
+
 numSections = 60
 pathLength = 0
 prevPxPos = 0

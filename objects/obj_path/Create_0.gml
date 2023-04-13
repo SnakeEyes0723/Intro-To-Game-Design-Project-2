@@ -16,7 +16,7 @@ moveSpeed = 1/secToComplete
 //Creating the path for this level
 global.currPath = path_add()
 path_set_closed(global.currPath,false);
-path_set_kind(global.currPath,1);
+path_set_kind(global.currPath,global.pathType);
 path_add_point(global.currPath,startingX,startingY,100);
 path_add_point(global.currPath,startingX,startingY,100);
 
@@ -25,7 +25,6 @@ with(instance_create_layer(0,0,"CharacterLayer",obj_character))
 {
 	global.characterID = id
 	moveSpeed = other.pixelsPerSecond
-	//numSections = other.numTextureSections
 }
 
 //Create Follower

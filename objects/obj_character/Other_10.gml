@@ -1,6 +1,5 @@
 /// @description Failed to reach end (Failed)
 
-
 path_end()
 reachedEnd = true
 followingPath = false

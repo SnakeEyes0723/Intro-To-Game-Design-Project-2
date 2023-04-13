@@ -1,5 +1,4 @@
-/// @description Insert description here
-// You can write your code in this editor
+/// @description Moves character along path every step
 if(followingPath and !reachedEnd){
 	pathLength = path_get_length(global.currPath)
 	path_position=(prevPxPos/pathLength)

@@ -1,6 +1,4 @@
-/// @description Insert description here
-// You can write your code in this editor
-
+/// @description Moves follower along path every step
 
 if(followingPath and !reachedEnd){
 	pathLength = path_get_length(global.currPath)
