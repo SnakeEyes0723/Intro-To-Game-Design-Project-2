@@ -37,5 +37,8 @@ with(instance_create_layer(0,0,"CharacterLayer",obj_follower))
 //Loads the path texture in memory to display the path
 tex = sprite_get_texture(pathTexture, 0)
 
+//Show current Lives
+livesAnim(false)
+
 //Debug
 show_debug_overlay(true)

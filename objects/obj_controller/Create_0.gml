@@ -1,17 +1,14 @@
 /// @description Insert description here
 // You can write your code in this editor
 
+window_set_size(1920,1080);
+window_set_fullscreen(true);
 
 global.pathPosition = 0
 global.controllerID = id
-global.movePath = true
+global.movePath = false
 global.characterID = 0
 global.followerID = 0
 global.pathType = 1
-
-function resetGlobals(){
-	global.pathPosition = 0
-	global.movePath = true
-	global.characterID = 0
-	global.followerID = 0
-}
+global.lives = 3
+global.currSeq = 0;
