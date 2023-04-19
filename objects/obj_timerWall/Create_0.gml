@@ -1,6 +1,7 @@
 /// @description Insert description here
 // You can write your code in this editor
 triggered = false
+playerMoved = false
 x = path_get_x(absolutePath,0)
 y = path_get_y(absolutePath,0)
 
