@@ -7,7 +7,7 @@
   "precision": 4,
   "points": [
     {"speed":100.0,"x":256.0,"y":-352.0,},
-    {"speed":100.0,"x":-32.0,"y":0.0,},
+    {"speed":100.0,"x":160.0,"y":160.0,},
   ],
   "parent": {
     "name": "Level 2 Paths",
