@@ -1,0 +1,1 @@
+if(path_position == 1) then isFalling = false

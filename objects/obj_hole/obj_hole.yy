@@ -12,8 +12,8 @@
   "spriteMaskId": null,
   "persistent": false,
   "parentObjectId": {
-    "name": "obj_triggerWall",
-    "path": "objects/obj_triggerWall/obj_triggerWall.yy",
+    "name": "obj_wall",
+    "path": "objects/obj_wall/obj_wall.yy",
   },
   "physicsObject": false,
   "physicsSensor": false,
