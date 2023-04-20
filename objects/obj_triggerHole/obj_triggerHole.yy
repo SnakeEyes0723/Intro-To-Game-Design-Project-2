@@ -1,10 +1,10 @@
 {
   "resourceType": "GMObject",
   "resourceVersion": "1.0",
-  "name": "obj_fire",
+  "name": "obj_triggerHole",
   "spriteId": {
-    "name": "spr_fire",
-    "path": "sprites/spr_fire/spr_fire.yy",
+    "name": "spr_hole",
+    "path": "sprites/spr_hole/spr_hole.yy",
   },
   "solid": false,
   "visible": true,
@@ -12,8 +12,8 @@
   "spriteMaskId": null,
   "persistent": false,
   "parentObjectId": {
-    "name": "obj_timerWall",
-    "path": "objects/obj_timerWall/obj_timerWall.yy",
+    "name": "obj_triggerWall",
+    "path": "objects/obj_triggerWall/obj_triggerWall.yy",
   },
   "physicsObject": false,
   "physicsSensor": false,
@@ -29,11 +29,9 @@
   "physicsShapePoints": [],
   "eventList": [],
   "properties": [],
-  "overriddenProperties": [
-    {"resourceType":"GMOverriddenProperty","resourceVersion":"1.0","name":"","propertyId":{"name":"secForLoop","path":"objects/obj_movingWall/obj_movingWall.yy",},"objectId":{"name":"obj_movingWall","path":"objects/obj_movingWall/obj_movingWall.yy",},"value":"0",},
-  ],
+  "overriddenProperties": [],
   "parent": {
-    "name": "Level 2 Objects",
-    "path": "folders/Objects/Level 2 Objects.yy",
+    "name": "Level 1 Objects",
+    "path": "folders/Objects/Level 1 Objects.yy",
   },
 }

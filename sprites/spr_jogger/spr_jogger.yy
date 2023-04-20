@@ -69,7 +69,7 @@
   ],
   "nineSlice": null,
   "parent": {
-    "name": "Level 1 Sprites (Placeholder)",
-    "path": "folders/Sprites/Level 1 Sprites (Placeholder).yy",
+    "name": "Level 1 Sprites",
+    "path": "folders/Sprites/Level 1 Sprites.yy",
   },
 }

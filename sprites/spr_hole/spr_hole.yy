@@ -3,7 +3,7 @@
   "resourceVersion": "1.0",
   "name": "spr_hole",
   "bboxMode": 0,
-  "collisionKind": 1,
+  "collisionKind": 0,
   "type": 0,
   "origin": 4,
   "preMultiplyAlpha": false,
@@ -68,7 +68,7 @@
   ],
   "nineSlice": null,
   "parent": {
-    "name": "Level 1 Sprites (Placeholder)",
-    "path": "folders/Sprites/Level 1 Sprites (Placeholder).yy",
+    "name": "Level 1 Sprites",
+    "path": "folders/Sprites/Level 1 Sprites.yy",
   },
 }
