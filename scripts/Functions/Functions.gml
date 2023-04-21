@@ -5,6 +5,7 @@ function resetGlobals(){
 	global.movePath = false
 	global.characterID = 0
 	global.followerID = 0
+	roomLongestPath = 0
 }
 
 function sequenceFinished(){

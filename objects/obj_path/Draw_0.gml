@@ -2,7 +2,7 @@
 
 //Debug, shows line through path
 //draw_path(global.currPath,500,200,true)
-
+draw_set_color(c_white)
 //Allows the path texture to be repeated
 gpu_set_texrepeat(true);
 
@@ -28,8 +28,8 @@ for (i=0; i<=1; i+=stepsize)
 	vx = lengthdir_x(textureLength,d);
 	vy = lengthdir_y(textureLength,d);
 
-	draw_vertex_texture(px+vx, py+vy,i*numTextureSections+movePos,0);
-	draw_vertex_texture(px-vx, py-vy,i*numTextureSections+movePos,1);
+	draw_vertex_texture(px+vx, py+vy,i*(path_get_length(global.currPath)/textureWidth)+movePos,0);
+	draw_vertex_texture(px-vx, py-vy,i*(path_get_length(global.currPath)/textureWidth)+movePos,1);
 }
 
 draw_primitive_end()

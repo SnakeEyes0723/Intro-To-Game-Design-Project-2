@@ -4,6 +4,7 @@ if(!layer_sequence_is_finished(global.currSeq))
 	return;
 }
 global.lives--;
+score-=500
 path_end()
 reachedEnd = true
 followingPath = false

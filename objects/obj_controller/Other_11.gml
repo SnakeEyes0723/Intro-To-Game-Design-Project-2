@@ -1,6 +1,7 @@
 /// @description Insert description here
 // You can write your code in this editor
 
+score+=min(0,6000-roomLongestPath)
 switch(room)
 {
 	case Level1:
