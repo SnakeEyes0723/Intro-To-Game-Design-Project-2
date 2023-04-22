@@ -2,12 +2,9 @@
   "resourceType": "GMPath",
   "resourceVersion": "1.0",
   "name": "level1BabyPath02",
-  "closed": true,
   "kind": 1,
-  "parent": {
-    "name": "Level 1 Paths",
-    "path": "folders/Paths/Level 1 Paths.yy",
-  },
+  "closed": true,
+  "precision": 4,
   "points": [
     {"speed":100.0,"x":480.0,"y":64.0,},
     {"speed":100.0,"x":480.0,"y":256.0,},
@@ -21,5 +18,8 @@
     {"speed":100.0,"x":800.0,"y":64.0,},
     {"speed":100.0,"x":608.0,"y":0.0,},
   ],
-  "precision": 4,
+  "parent": {
+    "name": "Level 1 Paths",
+    "path": "folders/Paths/Level 1 Paths.yy",
+  },
 }
