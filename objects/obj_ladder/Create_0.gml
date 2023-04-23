@@ -18,4 +18,5 @@ with(instance_create_layer(0,0,"ObstaclesLayer",obj_triggerRegion))
 	triggered = false
 	image_xscale = other.triggerWidth/sprite_width
 	image_yscale = other.triggerLength/sprite_height
+	visible = false
 }
