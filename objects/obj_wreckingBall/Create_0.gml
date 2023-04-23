@@ -3,6 +3,7 @@
 
 x = path_get_x(absolutePath,0)
 y = path_get_y(absolutePath,0)
+triggered = false
 
 if(loop){
 	onEnd = path_action_reverse
