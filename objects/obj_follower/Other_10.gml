@@ -14,14 +14,13 @@ with(global.followerID)
 {
 	path_end()
 	audio_stop_sound(snd_footsteps)
-	audio_play_sound(snd_dogCry,9,false)
+	if (global.lives == 0) {
+		audio_play_sound(snd_manCry2,9,false)
+	}
+	else {
+		audio_play_sound(snd_manCry,9,false) 
+	}
 	reachedEnd = true
 	followingPath = false
 	global.movePath = false
 }
-/*
-with(global.controllerID)
-{
-	event_perform(ev_other,ev_user0)
-}
-*/

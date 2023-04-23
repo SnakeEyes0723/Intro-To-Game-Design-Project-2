@@ -51,18 +51,18 @@
             {"resourceType":"GMOverriddenProperty","resourceVersion":"1.0","name":"","propertyId":{"name":"triggerX","path":"objects/obj_triggerWall/obj_triggerWall.yy",},"objectId":{"name":"obj_triggerWall","path":"objects/obj_triggerWall/obj_triggerWall.yy",},"value":"1600",},
             {"resourceType":"GMOverriddenProperty","resourceVersion":"1.0","name":"","propertyId":{"name":"triggerY","path":"objects/obj_triggerWall/obj_triggerWall.yy",},"objectId":{"name":"obj_triggerWall","path":"objects/obj_triggerWall/obj_triggerWall.yy",},"value":"450",},
             {"resourceType":"GMOverriddenProperty","resourceVersion":"1.0","name":"","propertyId":{"name":"triggerWidth","path":"objects/obj_triggerWall/obj_triggerWall.yy",},"objectId":{"name":"obj_triggerWall","path":"objects/obj_triggerWall/obj_triggerWall.yy",},"value":"352",},
-          ],"isDnd":false,"objectId":{"name":"obj_triggerHole","path":"objects/obj_triggerHole/obj_triggerHole.yy",},"inheritCode":false,"hasCreationCode":false,"colour":4294967295,"rotation":28.628168,"scaleX":2.0,"scaleY":2.0,"imageIndex":0,"imageSpeed":1.0,"inheritedItemId":null,"frozen":false,"ignore":false,"inheritItemSettings":false,"x":1344.0,"y":224.0,},
+          ],"isDnd":false,"objectId":{"name":"obj_triggerHole","path":"objects/obj_triggerHole/obj_triggerHole.yy",},"inheritCode":false,"hasCreationCode":false,"colour":4294967295,"rotation":28.628168,"scaleX":2.0,"scaleY":2.0,"imageIndex":0,"imageSpeed":1.0,"inheritedItemId":null,"frozen":false,"ignore":false,"inheritItemSettings":false,"x":1344.0,"y":352.0,},
       ],"visible":true,"depth":600,"userdefinedDepth":false,"inheritLayerDepth":false,"inheritLayerSettings":false,"inheritVisibility":true,"inheritSubLayers":true,"gridX":32,"gridY":32,"layers":[],"hierarchyFrozen":false,"effectEnabled":true,"effectType":null,"properties":[],},
     {"resourceType":"GMRInstanceLayer","resourceVersion":"1.0","name":"Instances","instances":[
         {"resourceType":"GMRInstance","resourceVersion":"1.0","name":"inst_2425FDA3_1","properties":[
             {"resourceType":"GMOverriddenProperty","resourceVersion":"1.0","name":"","propertyId":{"name":"startingX","path":"objects/obj_path/obj_path.yy",},"objectId":{"name":"obj_path","path":"objects/obj_path/obj_path.yy",},"value":"100",},
-            {"resourceType":"GMOverriddenProperty","resourceVersion":"1.0","name":"","propertyId":{"name":"startingY","path":"objects/obj_path/obj_path.yy",},"objectId":{"name":"obj_path","path":"objects/obj_path/obj_path.yy",},"value":"980",},
+            {"resourceType":"GMOverriddenProperty","resourceVersion":"1.0","name":"","propertyId":{"name":"startingY","path":"objects/obj_path/obj_path.yy",},"objectId":{"name":"obj_path","path":"objects/obj_path/obj_path.yy",},"value":"1020",},
           ],"isDnd":false,"objectId":{"name":"obj_path","path":"objects/obj_path/obj_path.yy",},"inheritCode":false,"hasCreationCode":false,"colour":4294967295,"rotation":0.0,"scaleX":1.0,"scaleY":1.0,"imageIndex":0,"imageSpeed":1.0,"inheritedItemId":null,"frozen":false,"ignore":false,"inheritItemSettings":false,"x":0.0,"y":0.0,},
       ],"visible":true,"depth":700,"userdefinedDepth":false,"inheritLayerDepth":false,"inheritLayerSettings":false,"inheritVisibility":true,"inheritSubLayers":true,"gridX":32,"gridY":32,"layers":[],"hierarchyFrozen":false,"effectEnabled":true,"effectType":null,"properties":[],},
     {"resourceType":"GMRBackgroundLayer","resourceVersion":"1.0","name":"Background","spriteId":{"name":"spr_1_background","path":"sprites/spr_1_background/spr_1_background.yy",},"colour":4294967295,"x":0,"y":0,"htiled":false,"vtiled":false,"hspeed":0.0,"vspeed":0.0,"stretch":true,"animationFPS":30.0,"animationSpeedType":0,"userdefinedAnimFPS":false,"visible":true,"depth":800,"userdefinedDepth":false,"inheritLayerDepth":false,"inheritLayerSettings":false,"inheritVisibility":true,"inheritSubLayers":true,"gridX":32,"gridY":32,"layers":[],"hierarchyFrozen":false,"effectEnabled":true,"effectType":null,"properties":[],},
   ],
   "inheritLayers": false,
-  "creationCodeFile": "",
+  "creationCodeFile": "${project_dir}/rooms/Level1/RoomCreationCode.gml",
   "inheritCode": false,
   "instanceCreationOrder": [
     {"name":"inst_2425FDA3_1","path":"rooms/Level1/Level1.yy",},
