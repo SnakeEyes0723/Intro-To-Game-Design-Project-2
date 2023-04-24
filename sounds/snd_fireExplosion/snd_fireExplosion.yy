@@ -4,7 +4,7 @@
   "name": "snd_fireExplosion",
   "conversionMode": 0,
   "compression": 1,
-  "volume": 1.0,
+  "volume": 0.3,
   "preload": false,
   "bitRate": 128,
   "sampleRate": 44100,

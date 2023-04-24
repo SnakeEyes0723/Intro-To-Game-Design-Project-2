@@ -17,7 +17,6 @@
   "HTile": false,
   "VTile": false,
   "For3D": false,
-  "DynamicTexturePage": false,
   "width": 480,
   "height": 270,
   "textureGroupId": {
@@ -64,6 +63,7 @@
     "eventStubScript": null,
   },
   "layers": [
+    {"resourceType":"GMImageLayer","resourceVersion":"1.0","name":"b63d4dd3-62be-4cfe-a6e0-9fad1f02bdc1","visible":true,"isLocked":false,"blendMode":0,"opacity":100.0,"displayName":"baby",},
     {"resourceType":"GMImageLayer","resourceVersion":"1.0","name":"22d5e7aa-024c-49ea-8c16-b0937c2b617d","visible":true,"isLocked":false,"blendMode":0,"opacity":100.0,"displayName":"Bridge",},
     {"resourceType":"GMImageLayer","resourceVersion":"1.0","name":"572c7ca0-3a1e-4427-aa81-9b8d7c1adfcf","visible":true,"isLocked":false,"blendMode":0,"opacity":100.0,"displayName":"Little things",},
     {"resourceType":"GMImageLayer","resourceVersion":"1.0","name":"b1272a4e-4cc0-47ad-8429-e3d41150d7cc","visible":true,"isLocked":false,"blendMode":0,"opacity":100.0,"displayName":"water",},

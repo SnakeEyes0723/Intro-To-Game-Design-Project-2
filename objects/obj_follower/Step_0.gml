@@ -23,3 +23,13 @@ if(followingPath and !reachedEnd){
 		event_perform(ev_other,ev_user0)
 	}
 }
+
+//animation
+if followingPath
+{
+	image_speed = 1	
+}else
+{
+	image_speed = 0
+	image_index = 0
+}

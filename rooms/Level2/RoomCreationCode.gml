@@ -1,2 +1,2 @@
-audio_stop_all()
+audio_stop_sound(snd_parkAmbience)
 audio_play_sound(snd_constructionAmbience,5,true)
