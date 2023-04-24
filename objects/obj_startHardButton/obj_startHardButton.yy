@@ -3,8 +3,8 @@
   "resourceVersion": "1.0",
   "name": "obj_startHardButton",
   "spriteId": {
-    "name": "spr_startHardButton",
-    "path": "sprites/spr_startHardButton/spr_startHardButton.yy",
+    "name": "spr_startNormalButton",
+    "path": "sprites/spr_startNormalButton/spr_startNormalButton.yy",
   },
   "solid": false,
   "visible": true,
