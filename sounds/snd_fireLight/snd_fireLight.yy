@@ -11,8 +11,8 @@
   "type": 1,
   "bitDepth": 1,
   "audioGroupId": {
-    "name": "audiogroup_default",
-    "path": "audiogroups/audiogroup_default",
+    "name": "soundeffects1",
+    "path": "audiogroups/soundeffects1",
   },
   "soundFile": "snd_fireLight.wav",
   "duration": 1.995917,
