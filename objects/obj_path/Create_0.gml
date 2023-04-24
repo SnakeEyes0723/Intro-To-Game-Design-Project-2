@@ -41,4 +41,4 @@ tex = sprite_get_texture(pathTexture, 0)
 livesAnim(false)
 
 //Debug
-show_debug_overlay(true)
+//show_debug_overlay(true)

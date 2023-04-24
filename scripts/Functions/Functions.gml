@@ -13,11 +13,12 @@ function sequenceFinished(){
 }
 
 function resetRoom(){
+	audio_group_stop_all(soundeffects1)
 	room_restart();
 }
 
 function lostGame(){
-	audio_stop_sound(soundeffects1)
+	audio_group_stop_all(soundeffects1)
 	score+=min(0,6000-global.controllerID.roomLongestPath)
 	room_goto(LoseRoom)
 }
@@ -37,6 +38,9 @@ function livesAnim(lostLife){
 			case 0:
 				nextSeqObj = Lost10Life;
 				break;
+			default:
+				nextSeqObj = Init3Lives;
+				break;
 		}
 	} else {
 		switch(global.lives){
@@ -48,6 +52,9 @@ function livesAnim(lostLife){
 				break;
 			case 1:
 				nextSeqObj = Init1Lives;
+				break;
+			default:
+				nextSeqObj = Init3Lives;
 				break;
 		}
 	}

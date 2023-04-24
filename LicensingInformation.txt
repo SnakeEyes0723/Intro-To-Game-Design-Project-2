@@ -1,0 +1,54 @@
+Licensing Information:
+	All menu art created by Jacob Wieland (2023).
+	All game art created by Tyler Jordan (2023).
+	Main theme created by Tyler Jordan (2023).
+	Sound effects created by Jason Khotsombath (2023):
+		- snd_manCry / ManCry.wav
+		- snd_manCry2 / ManCry.wav
+		
+License for Content – Pixabay License
+Content on Pixabay is made available to you on the following terms ("Pixabay License"). Under the Pixabay License you are granted an irrevocable, worldwide, non-exclusive and royalty free right to use, download, copy, modify or adapt the Content for commercial or non-commercial purposes. Attribution of the photographer, videographer, musician or Pixabay is not required but is always appreciated.
+
+The Pixabay License does not allow:
+	a. Sale or distribution of Content as digital Content or as digital wallpapers (such as on stock media websites or as NFTs);
+	b. Sale or distribution of Content e.g. as a posters, digital prints, music files or physical products, without adding any additional elements or otherwise adding value
+	c. Depiction of identifiable persons in an offensive, pornographic, obscene, immoral, defamatory or libelous way; or
+	d. Any suggestion that there is an endorsement of products and services by depicted persons, brands, vocalists and organisations, unless permission was granted.
+Please be aware that while all Content on Pixabay is free to use for commercial and non-commercial purposes, items in the Content, such as identifiable people, logos, brands, audio samples etc. may be subject to additional copyrights, property rights, privacy rights, trademarks etc. and may require the consent of a third party or the license of these rights - particularly for commercial applications. Pixabay does not represent or warrant that such consents or licenses have been obtained, and expressly disclaims any liability in this respect.
+https://pixabay.com/service/terms/#license
+
+Sound effects under Pixabay License:
+
+	- "Concrete Footsteps" by mypantsfelldown is used under Pixabay License. / Cut from original. https://pixabay.com/sound-effects/concrete-footsteps-6752/
+
+	- "park children 110111.wav" by sagetyrtle is used under Pixabay License. / Cut from original and merged. https://pixabay.com/sound-effects/park-children-110111wav-14818/
+
+	- "Forest Ambience With Cuckoo | Birds Chirping" by SoundsForYou is used under Pixabay License. / Cut from original and merged. https://pixabay.com/sound-effects/forest-ambience-with-cuckoo-birds-chirping-123046/
+
+	- "Highway Traffic - Cars and Street Sounds" by JuliusH is used under Pixabay License. / Cut from original. https://pixabay.com/sound-effects/highway-traffic-cars-and-street-sounds-8029/
+
+	- "Construction Soundscape [with reverb]" by Ajexk is used under Pixabay License. / Cut and merged from original. https://pixabay.com/sound-effects/construction-soundscape-with-reverb-32795/
+
+	- "Construction Site" by thedapperdan is used under Pixabay License. / Cut and merged from original. https://pixabay.com/sound-effects/construction-site-49508/
+
+	- "Dog Crying for a Hug.wav" by Grigore is used under Pixabay License. / Cut from original. https://pixabay.com/sound-effects/dog-crying-for-a-hugwav-14912/
+
+	- "Ambulance.aif" by bwav is used under Pixabay License. / Cut and distorted from original. https://pixabay.com/sound-effects/ambulanceaif-14498/
+
+	- "Nissan Maxima handbrake turn (04-25-2009)" by audible-edge is used under Pixabay License. / Cut from original. https://pixabay.com/sound-effects/nissan-maxima-handbrake-turn-04-25-2009-6098/
+
+	- "boedie alfa romeo MiTo honking car horn" by boedie is used under Pixabay License. / Cut from original. https://pixabay.com/sound-effects/boedie-alfa-romeo-mito-honking-car-horn-7138/
+
+	- "Lighting a Fire" by plasterbrain is used under Pixabay License. / Cut and merged from original. https://pixabay.com/sound-effects/lighting-a-fire-14421/
+
+	- "Fire Burning Loop" by midimagician is used under Pixabay License. / Cut and merged from original. https://pixabay.com/sound-effects/fire-burning-loop-6135/
+
+	- "Musket Explosion" by Willlewis is used under Pixabay License. / Cut and merged from original. https://pixabay.com/sound-effects/musket-explosion-6383/
+
+	- "HQ Explosion" by Quaker540 is used under Pixabay License. / Cut and merged from original. https://pixabay.com/sound-effects/hq-explosion-6288/
+
+	- "Whoosh" by Natty23 is used under Pixabay License. / Distorted from original. https://pixabay.com/sound-effects/whoosh-6316/
+
+	- "20 Erdbeben" by Klangmaler Lutz is used under Pixabay License. / Cut and merged from original. https://pixabay.com/sound-effects/20-erdbeben-29546/
+
+	- "Dropping Rocks" by iwanPlays is used under Pixabay License. / Cut and merged from original. https://pixabay.com/sound-effects/dropping-rocks-5996/

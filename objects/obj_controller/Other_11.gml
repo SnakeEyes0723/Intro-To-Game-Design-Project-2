@@ -2,6 +2,7 @@
 // You can write your code in this editor
 
 score+=min(0,6000-roomLongestPath)
+audio_group_stop_all(soundeffects1)
 switch(room)
 {
 	case Level1:

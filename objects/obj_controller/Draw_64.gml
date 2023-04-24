@@ -8,5 +8,5 @@ if(room == Level1 || room == Level2 || room == Level3){
 }
 if(room == LoseRoom || room == WinRoom){
 	draw_set_halign(fa_center)
-	draw_text(642, 462, "Final Score: " + string(max(0,round(score+6000-roomLongestPath))))
+	draw_text(683, 462, "Final Score: " + string(max(0,round(score+6000-roomLongestPath))))
 }
