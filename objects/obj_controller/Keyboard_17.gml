@@ -11,3 +11,8 @@ if(keyboard_check_pressed(ord("E")))
 {
 	game_end()
 }
+
+if(keyboard_check_pressed(ord("Z")))
+{
+	room_goto(WinRoom)
+}
