@@ -1,17 +1,14 @@
-Game Title: Guider
+Project Title: Guider
 Group Name: Gamer Design
-Producer: Jacob Wieland
-Programmer: Joey Parker
-Artist: Tyler Jordan
-Level Designer: Jason Khotsombath
+Group Members: Jacob Wieland, Joey Parker, Jason Khotsombath, Tyler Jordan
 
-Instructions: 
-Click on the start button on the Title Screen to start the game.
-Your goal in the levels is to create a path that both the dog and its owner can safely follow, without hitting any obstacles along the way.
-You can click anywhere on the level screen to create a point that bends the path, pressing the 'A' key will remove your previous point.
-Pressing the spacebar makes the dog and its owner start to move along the path, and can be done at any time.
-You may plan out your entire path from the beginning or continue to create your path as the player moves.
+Project Description: Top-down, level based game for one player made using Gamemaker.
 
-Cheat Codes: 
-- Pressing Ctrl and R at the same time resets the game back to the title screen.
-- Pressing Ctrl and E at the same time exits the game entirely. (Temporary)
+Instructions: As the player, your goal is to guide a blind man and his seeing-eye dog to the flag at the end of each level. You have a total of three lives for the entire game, with a life being lost if either the dog or his owner come into contact with an enemy or an obstacle. Your cursor is used to create paths that the dog and his owner will follow, with the path following the cursor at all times during a level. Clicking will create a pivot in the path, pressing the A key will delete the previous pivot, and pressing space will start the man and dog's movement along the path. Be warned though, once they start moving, they cannot be stopped. 
+
+Cheat Codes:
+- Ctrl+R: Restart game
+- Ctrl+E: End game
+- Ctrl+W: Go to WinRoom
+- Ctrl+L: Go to LoseRoom
+- Ctrl+H: Reset health to full
