@@ -19,7 +19,7 @@ function resetRoom(){
 
 function lostGame(){
 	audio_group_stop_all(soundeffects1)
-	score+=min(0,6000-global.controllerID.roomLongestPath)
+	score+=min(0,6000-path_get_length(global.currPath))
 	room_goto(LoseRoom)
 }
 
